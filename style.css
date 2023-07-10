@@ -6,7 +6,6 @@
 header {
   display: flex;
   background-color: #e554731a;
-  /* width: auto; */
   max-width: 1920px;
   max-height: 700px;
   width: auto;
@@ -67,4 +66,29 @@ header {
   height: auto;
   margin-right: 150px;
   margin-top: 50px;
+}
+
+/* featured section  */
+.featured-text {
+  margin-top: 130px;
+  margin-left: 765px;
+  margin-right: 765px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.featured-title {
+  color: #272727;
+  font-family: "lato", sans-serif;
+  font-size: 25px;
+  font-style: bold;
+  margin-bottom: 18px;
+}
+
+.featured-subtitle {
+  color: #27272799;
+  font-family: "lato", sans-serif;
+  font-style: normal;
 }
