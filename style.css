@@ -69,6 +69,7 @@ header {
 }
 
 /* featured section  */
+
 .featured-text {
   margin-top: 130px;
   margin-left: 765px;
@@ -91,4 +92,144 @@ header {
   color: #27272799;
   font-family: "lato", sans-serif;
   font-style: normal;
+  margin-bottom: 48px;
+}
+
+.featured-flowers {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  border-left: 300px;
+  border-right: 300px;
+}
+
+.featured-flower-1-border {
+  border-radius: 300px 300px 0px 0px;
+  background: #a7216226;
+  margin-right: 24px;
+  margin-bottom: 32px;
+  padding-top: 111px;
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.featured-flower-1-p {
+  color: #272727;
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+}
+
+.featured-flower-2-border {
+  border-radius: 300px 300px 0px 0px;
+  background: #0597a026;
+  margin-right: 24px;
+  margin-bottom: 32px;
+}
+
+.featured-flower-2-border img {
+  padding-top: 125px;
+  padding-right: 47px;
+  padding-left: 47px;
+  padding-bottom: 51px;
+}
+
+.featured-flower-2-p {
+  margin-bottom: 128px;
+  color: #272727;
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+}
+
+.featured-flower-3-border {
+  border-radius: 300px 300px 0px 0px;
+  background: #477d1126;
+  margin-right: 24px;
+  margin-bottom: 32px;
+  padding-top: 88px;
+  padding-right: 75px;
+  padding-left: 75px;
+}
+
+.featured-flower-3-p {
+  margin-bottom: 128px;
+  color: #272727;
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+}
+
+.grey-section {
+  display: flex;
+  justify-content: center;
+  border-radius: 8px;
+  background: #2727270d;
+  margin-right: 240px;
+  margin-left: 240px;
+  margin-bottom: 128px;
+}
+
+.delivery-man {
+  color: #272727cc;
+  font-family: "lato", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  margin-right: 100px;
+  margin-left: 175px;
+  margin-top: 86px;
+  margin-bottom: 87px;
+}
+
+.delivery-man p {
+  margin-top: 24px;
+}
+
+.flower-bouquet {
+  color: #272727cc;
+  font-family: "lato", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  margin-right: 100px;
+  margin-top: 86px;
+  margin-bottom: 87px;
+}
+
+.flower-bouquet p {
+  margin-top: 24px;
+}
+
+.call-center {
+  color: #272727cc;
+  font-family: "lato", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  margin-top: 86px;
+  margin-bottom: 87px;
+  margin-right: 175px;
+}
+
+.call-center p {
+  margin-top: 24px;
 }
