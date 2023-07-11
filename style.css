@@ -172,6 +172,8 @@ header {
   text-decoration-line: underline;
 }
 
+/* grey-section */
+
 .grey-section {
   display: flex;
   justify-content: center;
@@ -232,4 +234,96 @@ header {
 
 .call-center p {
   margin-top: 24px;
+}
+
+.hot-deal-section {
+  display: flex;
+  justify-content: center;
+  border-radius: 8px;
+  background: #e554730d;
+  height: 620px;
+  margin-bottom: 128px;
+}
+
+.hot-deal-right {
+  padding-top: 230px;
+  padding-left: 150px;
+  padding-bottom: 162px;
+  padding-right: 185px;
+}
+
+.hot-deal-title {
+  color: #272727;
+  font-family: "lato", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.hot-deal-title-off {
+  color: #e55473;
+}
+
+.hot-deal-subtitle {
+  color: #27272799;
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  flex-direction: column;
+  width: 594px;
+}
+
+.hot-deal-button button {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 18px 38px;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  border-color: transparent;
+  margin-top: 32px;
+}
+
+.flower-vase {
+  margin-top: 100px;
+  margin-right: 150px;
+}
+
+.instagram-section {
+  width: 594px;
+  height: 132px;
+  padding-left: 500px;
+  padding-left: 500px;
+}
+
+.instagram-section-title {
+  color: #272727;
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 40px;
+  font-style: Bold;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.instagram-section-subtitle {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: "lato", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;  
+  display: flex;
+  width: 594px;
+  margin-bottom: 48px;
 }
